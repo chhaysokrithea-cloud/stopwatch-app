@@ -27,3 +27,7 @@ A clean and simple stopwatch built with pure HTML, CSS, and JavaScript.
 2. Open `index.html` in your browser
 
 ## 📁 Project Structure
+stopwatch-app/
+index.html
+style.css
+script.js
