@@ -16,7 +16,7 @@ A clean and simple stopwatch built with pure HTML, CSS, and JavaScript.
 
 ## 📸 Preview
 
-![Stopwatch Preview](<img width="1166" height="612" alt="image" src="https://github.com/user-attachments/assets/5d512913-8609-4930-acae-3f3e6c40fadc" />
+![Stopwatch Preview](<img width="1166" height="612" alt="stopwatch" src="https://github.com/user-attachments/assets/03b4380c-0d42-45d1-a213-f46a61d76b7a" />
 )
 
 ## 🚀 How to Run
