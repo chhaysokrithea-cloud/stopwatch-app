@@ -1,5 +1,3 @@
-# stopwatch-app
-A simple stopwatch web app built with HTML, CSS, and JavaScript.
 # ⏱️ Stopwatch App
 
 A clean and simple stopwatch built with pure HTML, CSS, and JavaScript.
