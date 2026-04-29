@@ -28,6 +28,6 @@ A clean and simple stopwatch built with pure HTML, CSS, and JavaScript.
 
 ## 📁 Project Structure
 stopwatch-app/
-index.html
-style.css
-script.js
+- index.html
+- style.css
+- script.js
