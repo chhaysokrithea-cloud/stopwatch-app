@@ -1,4 +1,4 @@
-# ⏱️ Stopwatch App
+# ⏱️ Stopwatch
 
 A clean and simple stopwatch built with pure HTML, CSS, and JavaScript.
 
